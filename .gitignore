@@ -1,5 +1,9 @@
-# Virtual Environment
-.venv
+# Cache
+**/__pycache__
+.pytest_cache
 
 # Database
 storage.db
+
+# Virtual Environment
+.venv
